@@ -16,7 +16,7 @@ The work includes:
 
 ---
 
-## 🗂Repository Contents
+## Repository Contents
 
 - `Thesis_Curzi.ipynb`: Jupyter Notebook containing all the code used for:
   - Data preparation and cleaning
